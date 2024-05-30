@@ -1,3 +1,4 @@
+package com.wabweni.model;
 
 public class User {
     // Fields to store user information
