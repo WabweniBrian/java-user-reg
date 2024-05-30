@@ -1,4 +1,6 @@
+package com.wabweni.model;
 
+import com.wabweni.model.User;
 import java.util.*;
 
 public class Main {
